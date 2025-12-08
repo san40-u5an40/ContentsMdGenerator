@@ -1,9 +1,5 @@
-﻿namespace ContentsMdGenerator;
-
-internal class Program
+﻿internal class Program
 {
-    static void Main(string[] args)
-    {
-        ContentsMdGenerator.Generate(args);
-    }
+    static void Main(string[] args) =>
+        ContentsMdGenerator.Run(args);
 }
