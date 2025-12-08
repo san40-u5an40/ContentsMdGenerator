@@ -48,6 +48,3 @@ Z:\4_programming\csharp\projects\ExtraLib\ExtraLib>type contents_README.md
 
 Z:\4_programming\csharp\projects\ExtraLib\ExtraLib>
 ```
-
-## Перспективы развития
-В разработке возможность указать ссылку на GitHub, для формирования оглавления по содержимому README.md, выложенному в удалённом репозитории.
